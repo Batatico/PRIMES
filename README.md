@@ -1,2 +1,1 @@
-# PRIMAL
 # PRIMES
